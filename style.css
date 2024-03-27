@@ -160,9 +160,9 @@ body {
 .section-quality-our-bekary {
     height: 852px;
     background-color: var(--background-color);
-    background-image: url("img/quality-our-bekary.png");
+    background-image: url("img/quality-our-bakery.png");
     background-repeat: repeat-x;
-    background-position: left 200% bottom;
+    background-position: center bottom;
     padding-bottom: 100px;
     padding-top: 90px;
 }
@@ -345,4 +345,7 @@ body {
 }
 .menu-button-bottom {
     margin-bottom: 73px;
+}
+.traditional-backery-figure {
+    text-align: center;
 }
